@@ -1,5 +1,6 @@
 # BATCH_VBS
 Batch para levantar el servicio de Mysql, levantar el Glassfish y desplegar asi como una variedad de otros mini programas
+</br>
 <b>Muestra el texto de un archivo txt ubicado en C y luego lo lee con la voz por defecto de windows</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura1.JPG" width="650" > 
 </br>
@@ -9,26 +10,26 @@ Batch para levantar el servicio de Mysql, levantar el Glassfish y desplegar asi 
 <b>Mueve un archivo de una ruta a otra</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura3.JPG" width="650" > 
 </br>
-<p>Levantar el servidor</p>
+<b>Levantar el servidor</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura4.JPG" width="650" > 
 </br>
-<p>Levantar la base de datos</p>
+<b>Levantar la base de datos</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura5.JPG" width="650" > 
 </br>
-<p>desplegar un war en el servidor</p>
+<b>Desplegar un war en el servidor</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura6.JPG" width="650" > 
 </br>
-<p>detener el servidor</p>
+<b>Detener el servidor</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura7.JPG" width="650" > 
 </br>
-<p>detener el servicio de la base de datos nos pedira usuario y password</p>
+<b>Detener el servicio de la base de datos nos pedira usuario y password</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura8.JPG" width="650" > 
 </br>
-<p>Correr un jar desde un archivo bat</p>
+<b>Correr un jar desde un archivo bat</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura9.JPG" width="650" > 
 </br>
-<p>Ejuctar una serie de bats en cada uno despues del otro</p>
-<p>al finalizar lanzara un mensaje y al presionar aceptar este nos llevara a la web de nuestro servidor</p>
+<b>Ejuctar una serie de bats en cada uno despues del otro</b>
+<b>al finalizar lanzara un mensaje y al presionar aceptar este nos llevara a la web de nuestro servidor</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura10.JPG" width="650" > 
 </br>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura11.JPG" width="650" > 
@@ -37,9 +38,9 @@ Batch para levantar el servicio de Mysql, levantar el Glassfish y desplegar asi 
 </br>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura13.JPG" width="650" > 
 </br>
-<p>Programa estilo virus para asustar a alguien</p
+<b>Programa estilo virus para asustar a alguien</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura14.JPG" width="650" > 
 </br>
-<p>Pantalla de matrix</p
+<b>Pantalla de matrix</b>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura15.JPG" width="650" > 
 </br>
