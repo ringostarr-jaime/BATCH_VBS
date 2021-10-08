@@ -36,7 +36,7 @@ Batch para levantar el servicio de Mysql, levantar el Glassfish y desplegar asi 
 </br>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura9.JPG" width="650" > 
 </br>
-<b>Ejuctar una serie de bats en cada uno despues del otro</b>
+<b>Ejecuta una serie de bats en cada uno despues del otro</b>
 <b>al finalizar lanzara un mensaje y al presionar aceptar este nos llevara a la web de nuestro servidor</b>
 </br>
 <img src="https://github.com/ringostarr-jaime/BATCH_VBS/blob/main/batsyvbs/Captura10.JPG" width="650" > 
